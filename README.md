@@ -67,3 +67,87 @@ Suppose that the user dictionary is of the following form:
 2. Implement a function called `get_user_score` that takes the movie’s imdb title id and a user dictionary (a.k.a. hash) and returns the user-specific score for that movie.
 3. Implement a function called `get_top_10_movies_for_user` that takes the user dictionary and returns the names of the top 10 movies and their corresponding user-specific fractal scores.
 4. Run `get_top_10_movies_for_user` for the example user dictionary specified in the section titled The Data above.
+
+# Day 2
+## 1.0 Objectives
+Students will
+
+- use more `pandas` functionality to reshape & transform their data
+- practice basic data munging
+- apply basic `matplotlib` plotting from within `pandas` dataframes
+- learn `seaborn` plotting
+- create more novel plots with `plotly` and `cufflinks`
+- learn the basics of linear regression, our first predictive model
+- work on an in-class regression modeling lab
+
+## 1.1 Agenda
+0. Welcome & Any Questions/Thoughts from Day 1?
+1. More `pandas`
+2. Data Munging 101
+3. Why data viz? What's EDA?
+4. Basic plotting with `matplotlib` via `pandas`
+5. Intro to `seaborn`
+6. Novel plots with `plotly` and `cufflinks`
+7. Lab 1: Basic EDA with Data Visualization
+7. How Data Science Works at a High-level
+8. Intro to Linear Regression
+9. Code Example of Linear Regression
+10. Lab 2: Linear Regression Applied
+
+## 1.2 More `pandas`
+We'll continue using [this dataset](https://s3.amazonaws.com/python-level-2/sales-funnel.csv).
+
+### 1.21 Pivot tables
+### 1.22 Cross-tabulation
+
+## 1.3 Data Munging 101
+Let's use [this dataset](https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/rock.csv).
+
+### 1.31 lambda functions
+### 1.32 `value_counts()`
+### 1.33 `groupby`
+
+## 1.4 Why data viz? What's EDA?
+- [NYC Restaurant Grades](https://fivethirtyeight.com/features/how-data-made-me-a-believer-in-new-york-citys-restaurant-grades/)
+- [NY Times Election Map](https://www.nytimes.com/elections/results/president)
+
+## 1.5 Basic plotting via `pandas` and `matplotlib`
+
+
+## 1.6 Intro to `seaborn`
+
+## Datasets for Exercise
+- [AAPL](https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/aapl.csv)
+- [GOOG](https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/goog.csv)
+
+## 1.7 Novel plots with Plot.ly
+### Heat Map
+- [Hotdog Eaters](https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/hotdog-eaters.csv)
+
+### Geographical Plot
+- [US Agricultural Exports](https://raw.githubusercontent.com/plotly/datasets/master/2011_us_ag_exports.csv)
+
+## 1.8 Lab 1: EDA & Data Viz
+
+## 1.9 How Data Science Works at a High Level
+
+### For Discussion
+Suppose we only have the following data set.
+
+release_year | genre | imdb_score | fb_fan_count | watched
+--- | --- | --- | --- | ---
+2011 | Sci-Fi | 6.5 | 750000 | 1
+1977 | Romance | 8.8 | 1500 | 0
+1977 | Sci-Fi  | 7.5 | 8688 | 1
+... | ... | ... | ... |...
+
+0. What should be the target?
+1. What are the features?
+2. What data should we train it on?
+3. What data should we test it against?
+
+## 1.10 The Theory of Linear Regression
+
+## 1.11 Code Example of Linear Regression
+
+## 1.12 Lab 2: Linear Regression Applied
