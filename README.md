@@ -77,77 +77,35 @@ Students will
 - apply basic `matplotlib` plotting from within `pandas` dataframes
 - learn `seaborn` plotting
 - create more novel plots with `plotly` and `cufflinks`
-- learn the basics of linear regression, our first predictive model
-- work on an in-class regression modeling lab
 
-## 2.1 Agenda
-0. Welcome & Any Questions/Thoughts from Day 1?
-1. More `pandas`
-2. Data Munging 101
-3. Why data viz? What's EDA?
-4. Basic plotting with `matplotlib` via `pandas`
-5. Intro to `seaborn`
-6. Novel plots with `plotly` and `cufflinks`
-7. Lab 1: Basic EDA with Data Visualization
-7. How Data Science Works at a High-level
-8. Intro to Linear Regression
-9. Code Example of Linear Regression
-10. Lab 2: Linear Regression Applied
+## 2.1 Python Review via an Exercise
+## 2.2 Pandas Basic Review
+Let's work with this data: https://drive.google.com/file/d/0Byveb6yWfKu2ZThzYno2RV9uSHc/view?usp=sharing
+## 2.3 More Boolean Masks
+## 2.4 Data Aggregation
+Let's go back to our Sales Funnel data set.
+## 2.5 Pivot Tables
+## 2.6 Cross Tabulation
+## 2.7 Groupby
+## 2.8 Lambda Functions
+## 2.9 Data Transformation & Munging 101
+## 2.10 Text Manipulation
+## 2.11 Why Data Viz? What's EDA?
+## 2.12 Plotting from Pandas DataFrame via `matplotlib`
+## 2.13 Intro to `seaborn`
+Compute the prices per rep for the other product types: Maintenance, Monitor and Software and save them into following variables, similar to how we got `cpu_prices_pre_rep`:
+## 2.14 Plot.ly Heatmap
+Let's use this dataset: https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/hotdog-eaters.csv
 
-## 2.2 More `pandas`
-We'll continue using [this dataset](https://s3.amazonaws.com/python-level-2/sales-funnel.csv).
+We can use my API key: api_key = "gRlD3V1yDbklDSCyqlwO"
 
-### 2.21 Pivot tables
-### 2.22 Cross-tabulation
+## 2.15 Geographical plot (a.k.a. Chloropleth)
+Let's use this data: https://raw.githubusercontent.com/plotly/datasets/master/2011_us_ag_exports.csv
 
-## 2.3 Data Munging 101
-Let's use [this dataset](https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/rock.csv).
+## 2.16 Optional Time Series Lab (with Cuff Links)
+- https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/aapl.csv
+- https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/goog.csv
 
-### 2.31 lambda functions
-### 2.32 `value_counts()`
-### 2.33 `groupby`
+## 2.17 Lab: Exploratory Data Analysis (EDA)
+Let's explore the agricultural data further.
 
-## 2.4 Why data viz? What's EDA?
-- [NYC Restaurant Grades](https://fivethirtyeight.com/features/how-data-made-me-a-believer-in-new-york-citys-restaurant-grades/)
-- [NY Times Election Map](https://www.nytimes.com/elections/results/president)
-
-## 2.5 Basic plotting via `pandas` and `matplotlib`
-
-
-## 2.6 Intro to `seaborn`
-
-## Datasets for Exercise
-- [AAPL](https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/aapl.csv)
-- [GOOG](https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/goog.csv)
-
-## 2.7 Novel plots with Plot.ly
-### Heat Map
-- [Hotdog Eaters](https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/hotdog-eaters.csv)
-
-### Geographical Plot
-- [US Agricultural Exports](https://raw.githubusercontent.com/plotly/datasets/master/2011_us_ag_exports.csv)
-
-## 2.8 Lab 1: EDA & Data Viz
-
-## 2.9 How Data Science Works at a High Level
-
-### For Discussion
-Suppose we only have the following data set.
-
-release_year | genre | imdb_score | fb_fan_count | watched
---- | --- | --- | --- | ---
-2011 | Sci-Fi | 6.5 | 750000 | 1
-1977 | Romance | 8.8 | 1500 | 0
-1977 | Sci-Fi  | 7.5 | 8688 | 1
-... | ... | ... | ... |...
-
-0. What should be the target?
-1. What are the features?
-2. What data should we train it on?
-3. What data should we test it against?
-
-## 2.10 The Theory of Linear Regression
-
-## 2.11 Code Example of Linear Regression
-
-## 2.12 Lab 2: Linear Regression Applied
