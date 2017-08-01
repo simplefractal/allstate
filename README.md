@@ -83,3 +83,49 @@ Let's use this data: https://raw.githubusercontent.com/plotly/datasets/master/20
 ## 2.17 Lab: Exploratory Data Analysis (EDA)
 Let's explore the agricultural data further.
 
+# Day 3
+## 3.0 Objectives
+- learn logistic regression, SVM, kNN
+- apply these models to real datasets
+
+## 3.1 The Mechanics of Data Science
+## 3.2 Data Science Terms & Definitions
+- supervised learning
+- unsupervised learning
+- target
+- feature
+- training set
+- validation set
+- cross-validation
+- model
+- regression vs classification
+
+## 3.3 The Theory of Linear Regression
+## 3.4 Linear Regression Code Sample
+This dataset: https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/datasets/Boston_Housing.csv
+
+Description of the data: https://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.names
+
+## 3.5 Lab: Linear Regression Applied
+
+## 3.6 kNN Theory
+- Worksheet 1 https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/worksheets/worksheet_1_kNN.pdf
+- Worksheet 2 https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/worksheets/worksheet_2_kNN.pdf
+- Worksheet 3 https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/worksheets/worksheet_3_kNN.pdf
+
+## 3.7 kNN Applied
+Let's use this breast cancer dataset The data: https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/datasets/breast-cancer.csv
+
+## 3.8 Logistic Regression
+## 3.9 SVM Theory
+The kernel trick: https://www.youtube.com/watch?v=3liCbRZPrZA
+
+### Worksheets
+- https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/worksheets/SVM/SVM_worksheet_1.pdf
+- https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/worksheets/SVM/SVM_worksheet_2.pdf
+
+## 3.10 SVM Applied
+Let's try it again on the breast cancer data.
+
+## 3.11 Lab: Classification Problem
+Let's work on this dataset: https://s3-us-west-2.amazonaws.com/simplefractal-teaching/cc_default.csv
