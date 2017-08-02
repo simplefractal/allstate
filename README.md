@@ -76,17 +76,14 @@ We can use my API key: api_key = "gRlD3V1yDbklDSCyqlwO"
 ## 2.15 Geographical plot (a.k.a. Chloropleth)
 Let's use this data: https://raw.githubusercontent.com/plotly/datasets/master/2011_us_ag_exports.csv
 
-## 2.16 Optional Time Series Lab (with Cuff Links)
-- https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/aapl.csv
-- https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/goog.csv
-
-## 2.17 Lab: Exploratory Data Analysis (EDA)
-Let's explore the agricultural data further.
-
 # Day 3
 ## 3.0 Objectives
 - learn logistic regression, SVM, kNN
 - apply these models to real datasets
+
+## 3.01 Time Series Lab
+- https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/aapl.csv
+- https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/goog.csv
 
 ## 3.1 The Mechanics of Data Science
 ## 3.2 Data Science Terms & Definitions
@@ -101,12 +98,15 @@ Let's explore the agricultural data further.
 - regression vs classification
 
 ## 3.3 The Theory of Linear Regression
+[Gradient Descent Worksheet](https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/worksheets/Gradient+Descent/GD_worksheet_1.pdf)
+
 ## 3.4 Linear Regression Code Sample
 This dataset: https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/datasets/Boston_Housing.csv
 
 Description of the data: https://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.names
 
 ## 3.5 Lab: Linear Regression Applied
+Let's take a look at [this dataset](https://s3-us-west-2.amazonaws.com/simplefractal-teaching/health_data.csv)
 
 ## 3.6 kNN Theory
 - Worksheet 1 https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/worksheets/worksheet_1_kNN.pdf
@@ -115,6 +115,8 @@ Description of the data: https://archive.ics.uci.edu/ml/machine-learning-databas
 
 ## 3.7 kNN Applied
 Let's use this breast cancer dataset The data: https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/datasets/breast-cancer.csv
+
+### Accuracies plot
 
 ## 3.8 Logistic Regression
 ## 3.9 SVM Theory
@@ -126,6 +128,10 @@ The kernel trick: https://www.youtube.com/watch?v=3liCbRZPrZA
 
 ## 3.10 SVM Applied
 Let's try it again on the breast cancer data.
+
+### Accuracies plot
+
+### Parametric Grid Search Demo
 
 ## 3.11 Lab: Classification Problem
 Let's work on this dataset: https://s3-us-west-2.amazonaws.com/simplefractal-teaching/cc_default.csv
