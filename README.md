@@ -138,25 +138,6 @@ Let's work on this dataset: https://s3-us-west-2.amazonaws.com/simplefractal-tea
 
 Definitions: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
 
-
-# Agenda
-1. [40] Lab 1 Regression
-2. [45] Lab 2 Classification
-3. [30] Precision, Recall, Class Report
-4. [60] SVM Theory & Application
-**** 3 hours ****
-5. [45] Trees Theory & Application
-6. [30] Bagging Theory & Application
-7. [30] Random Forest & Application
-8. [20] Bias/Variance
-**** 2 hours ****
-9. [30] Unsupervised Learning Discussion
-10. [30] K-Means Clustering
-11. [20] Principal Component Analysis
-***** 1 hr ****
-12. [60] Object Oriented Programming in Python
-***** 7 *****
-
 # Day 4
 ## 4.0 Lab 1: Linear Regression and Data Viz
 ## 4.1 Lab 2: Classification of CC Default
