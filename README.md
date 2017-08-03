@@ -135,3 +135,52 @@ Let's try it again on the breast cancer data.
 
 ## 3.11 Lab: Classification Problem
 Let's work on this dataset: https://s3-us-west-2.amazonaws.com/simplefractal-teaching/cc_default.csv
+
+
+# Agenda
+1. [40] Lab 1 Regression
+2. [45] Lab 2 Classification
+3. [30] Precision, Recall, Class Report
+4. [60] SVM Theory & Application
+**** 3 hours ****
+5. [45] Trees Theory & Application
+6. [30] Bagging Theory & Application
+7. [30] Random Forest & Application
+8. [20] Bias/Variance
+**** 2 hours ****
+9. [30] Unsupervised Learning Discussion
+10. [30] K-Means Clustering
+11. [20] Principal Component Analysis
+***** 1 hr ****
+12. [60] Object Oriented Programming in Python
+***** 7 *****
+
+# Day 4
+## 4.0 Lab 1: Linear Regression and Data Viz
+## 4.1 Lab 2: Classification of CC Default
+## 4.2 Precision, Recall and the Classification Report
+## 4.3 SVM Theory and Application
+## 4.4 Trees
+- [Sheet 1: Decision Trees](https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/worksheets/Decision+Trees/DT_wksht_2.pdf)
+- [Sheet 2: Cost of Trees](https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/worksheets/Decision+Trees/DT_wksht_3.pdf)
+## 4.5 Bagging
+- [Sheet 3: Bootstrap Aggregation](https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/worksheets/Decision+Trees/DT_wksht_4.pdf)
+## 4.6 Random Forest
+- [Laymen's explanation](http://qr.ae/QvDfy)
+
+## 4.7 Measuring Variable Importance
+- How do we interpreter our model/the results?
+- [Sheet 4: https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/worksheets/Trees+Continued/trees_continued_wksht_3.pdf]
+
+# 4.8 Bias-Variance
+- http://scott.fortmann-roe.com/docs/BiasVariance.html
+
+## 4.9 Unsupervised Learning
+## 4.10 K-Means Clustering
+## 4.11 Principal Component Analysis
+# 4.12 Principal Component Analysis
+- [Sheet 1](https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/worksheets/PCA/PCA_worksheet_1.pdf)
+## 4.13 Object Oriented Programming in Python
+## 4.14 Optional Lab
+## 4.15 Brainstorming Session
+
