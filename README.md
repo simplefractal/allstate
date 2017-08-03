@@ -136,6 +136,8 @@ Let's try it again on the breast cancer data.
 ## 3.11 Lab: Classification Problem
 Let's work on this dataset: https://s3-us-west-2.amazonaws.com/simplefractal-teaching/cc_default.csv
 
+Definitions: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+
 
 # Agenda
 1. [40] Lab 1 Regression
