@@ -176,3 +176,4 @@ PCA_worksheet_1.pdf)
 ## 5.9 Industry Tools
 ## 5.10 Capstone Projects / Brainstorming Session
 ## 5.11 Optional Lab: Tying things together
+- [This dataset of movies watched](https://s3.amazonaws.com/simple-fractal-workshops/movie_history_for_user.csv)
