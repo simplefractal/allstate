@@ -159,11 +159,20 @@ Definitions: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clie
 - http://scott.fortmann-roe.com/docs/BiasVariance.html
 
 ## 4.9 Unsupervised Learning
-## 4.10 K-Means Clustering
-## 4.11 Principal Component Analysis
-# 4.12 Principal Component Analysis
-- [Sheet 1](https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/worksheets/PCA/PCA_worksheet_1.pdf)
-## 4.13 Object Oriented Programming in Python
+PCA_worksheet_1.pdf)
 ## 4.14 Optional Lab
 ## 4.15 Brainstorming Session
 
+# Day 5
+## 5.1 K-Means Clustering
+## 5.2 Principal Component Analysis
+- [Sheet 1](https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/worksheets/PCA/
+## 5.3 Object-Oriented Programming
+## 5.4 Pip & VirtualEnvs
+## 5.5 Debugging Python Code
+## 5.6 Profiling Python Code
+## 5.7 Automated Testing
+## 5.8 Git Best Practices
+## 5.9 Industry Tools
+## 5.10 Capstone Projects / Brainstorming Session
+## 5.11 Optional Lab: Tying things together
